@@ -1,0 +1,25 @@
+.container {
+    width:600px;
+    justify-content: center;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block{
+    height: 900px;
+}
+.block1 {
+    background-color: red;
+}
+.block2 {
+    /* background-color: white; */
+    opacity: 0.5;
+}
+.block3 {
+    background-color: green;
+}
